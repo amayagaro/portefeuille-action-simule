@@ -1,6 +1,6 @@
 # Portefeuille actions simulé (2 M€)
 
-Projet académique ESME (parcours finance, 3e année), octobre à décembre 2025 : gestion d'un portefeuille fictif de 2 M€ sur une trentaine d'actions américaines et européennes, avec analyse fondamentale, ordres stop-loss / take-profit automatisés et rémunération du cash.
+Projet initial (Excel) réalisé dans le cadre d'un travail de groupe à l'ESME (parcours finance, 3e année), octobre à décembre 2025. Version Python, vérification et analyse : Amaya Garo. Gestion d'un portefeuille fictif de 2 M€ sur une trentaine d'actions américaines et européennes, avec analyse fondamentale, ordres stop-loss / take-profit automatisés et rémunération du cash.
 
 Le projet a d'abord été construit sous Excel. Ce dépôt en propose une version Python qui :
 
